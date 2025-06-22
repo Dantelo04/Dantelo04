@@ -1,7 +1,7 @@
 <h1>Hi there! I'm Dante 👨🏻‍💻</h1>
 
 <p>
-  💻 Full Stack Developer | 🚀 Passionate about technology | 🌎 Paraguay
+  💻 Full Stack Developer | 🚀 Passionate about technology | 🌎 Paraguay | 📚 Software Engineering at FPUNA
 </p>
 
 <p>
