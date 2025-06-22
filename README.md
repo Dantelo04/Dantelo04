@@ -1,10 +1,10 @@
-<h1 align="center">Hi there! I'm Dante 👋</h1>
+<h1>Hi there! I'm Dante 👋</h1>
 
-<p align="center">
+<p>
   💻 Full Stack Developer | 🚀 Passionate about technology | 🌎 Paraguay
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/dante-rivarola-dinatale-264a82289/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
