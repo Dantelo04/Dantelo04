@@ -1,4 +1,4 @@
-<h1>Hi there! I'm Dante 👋</h1>
+<h1>Hi there! I'm Dante 👨🏻‍💻</h1>
 
 <p>
   💻 Full Stack Developer | 🚀 Passionate about technology | 🌎 Paraguay
